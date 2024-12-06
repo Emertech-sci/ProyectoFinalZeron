@@ -1,0 +1,15 @@
+Titulo repetido: titulo1
+Titulo repetido: titulo2
+Titulo repetido: titulo3
+Titulo repetido: titulo4
+Titulo repetido: titulo5
+Titulo repetido: titulo6
+Titulo repetido: titulo7
+Titulo repetido: titulo8
+Titulo repetido: titulo9
+Capacidad de libros maxima alcanzada (48).
+
+1. Gestionar Libros.
+2. Gestionar Discos.
+3. Gestionar Peliculas.
+0. Salir.
